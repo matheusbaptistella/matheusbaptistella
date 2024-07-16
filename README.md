@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello there, I'm Matheus 👋
+ - 🛠 I'm an undergraduate computing engineer, looking to expand my skills and knowledge. 
+ - 🦀 I especially like to develop on Rust, a safe language rich in features!
+ - 🏆 I'm keen on playing Hackathons and competitons like CTFs.
+ - 🚀 I have experience in: Rust, Flutter/Dart, (No)SQL, Docker, Typescript.
+ - 📫 To reach me, send an email to: (mbapts@gmail.com)[mbapts@gmail.com]
+ - 🤝 Let's Collaborate!!! I'm always open to collaboration on interesting projects. If you have an idea or a project you'd like to work on together, please reach out!
 
 <!--
 **matheusbaptistella/matheusbaptistella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
