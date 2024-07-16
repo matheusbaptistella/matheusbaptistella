@@ -1,5 +1,5 @@
 ## Hello there, I'm Matheus 👋
- - 🛠 I'm an undergraduate computing engineer, looking to expand my skills and knowledge. 
+ - 🛠 I'm a computer engineer undergrad, looking to expand my skills and knowledge. 
  - 🦀 I especially like to develop on Rust, a safe language rich in features!
  - 🏆 I'm keen on playing Hackathons and competitons like CTFs.
  - 🚀 I have experience in: Rust, Flutter/Dart, (No)SQL, Docker, Typescript.
