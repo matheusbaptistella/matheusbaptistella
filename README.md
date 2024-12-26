@@ -1,9 +1,8 @@
 ## Hello there, I'm Matheus 👋
- - 🛠 I'm a computer engineer undergrad, looking to expand my skills and knowledge. 
- - 🦀 I especially like to develop on Rust, a safe language rich in features!
+ - 🛠 I'm a computer engineer undergrad, eager to expand my skills and knowledge. 
+ - 🌱 I’m currently learning Rust, a memory-safe programming language rich in features!
  - 🏆 I'm keen on playing Hackathons and competitons like CTFs.
  - 🚀 I have experience in: Rust, Python, Flutter/Dart, SQL, Docker, Typescript.
- - 📫 To reach me, send an email to: [mbapts@gmail.com](mbapts@gmail.com).
  - 🤝 Let's Collaborate!!! If you have an idea or a project you'd like to work on together, please reach out!
 
 <!--
