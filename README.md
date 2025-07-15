@@ -2,7 +2,7 @@
  - 🛠 I'm a computer engineer undergrad, eager to expand my skills and knowledge. 
  - 🌱 I’m currently learning Rust, a memory-safe programming language rich in features!
  - 🏆 I'm keen on playing Hackathons and competitons like CTFs.
- - 🚀 I have experience in: Rust, Python, Flutter/Dart, SQL, Docker, Typescript.
+ - 🚀 I have experience in: Rust, Python, FastAPI/Django, Flutter/Dart, SQL, Docker.
  - 🤝 Let's Collaborate!!! If you have an idea or a project you'd like to work on together, please reach out!
 
 <!--
