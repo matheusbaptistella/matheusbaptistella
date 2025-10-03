@@ -1,8 +1,5 @@
-## Hello there, I'm Matheus 👋
- - 🛠 I'm a computer engineer undergrad, eager to expand my skills and knowledge. 
- - 🌱 I’m currently learning Rust, a memory-safe programming language rich in features!
- - 🏆 I'm keen on playing Hackathons and competitons like CTFs.
- - 🚀 I have experience in: Rust, Python, FastAPI/Django, Flutter/Dart, SQL, Docker.
+## Hello there
+ - I'm learning Rust and I like to study low-level and security topics.
 
 <!--
 **matheusbaptistella/matheusbaptistella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
