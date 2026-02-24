@@ -1,5 +1,5 @@
 ## Hello there
- - I'm learning Rust and I like to study low-level and security topics.
+I'm learning Rust and I like to study low-level and security topics.
 
 <!--
 **matheusbaptistella/matheusbaptistella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
